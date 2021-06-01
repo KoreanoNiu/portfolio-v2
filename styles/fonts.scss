@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Moredat';
+    src: url('./Moderat-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Moredat-Bold';
+    src: url('./Moderat-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'GTWalsheimPro-Regular';
+    src: url('./GTWalsheimPro-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'GTWalsheimPro-Light';
+    src: url('./GTWalsheimPro-Light.ttf');
+}
+
+@font-face {
+    font-family: 'GTWalsheimPro-Thin';
+    src: url('./GTWalsheimPro-Thin.ttf');
+}
+
+
+@font-face {
+    font-family: 'GTWalsheimPro-Bold';
+    src: url('./GTWalsheimPro-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Garlic';
+    src: url('./Garlic-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Arida';
+    src: url('./Arida-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Astila';
+    src: url('./Astila-Regular.ttf'); 
+}
+
+::-webkit-scrollbar{
+    background: transparent;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #D3D1CB;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #EDECE9;
+  }

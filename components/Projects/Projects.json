@@ -1,0 +1,429 @@
+[
+    {
+        "backgroundImage": "/static/img/Astrafit/1.PNG",
+        "images": [
+            {
+                "image": "/static/img/Astrafit/1.PNG",
+                "id": 1
+            },
+            {
+                "image": "/static/img/Astrafit/2.PNG",
+                "id": 2
+            },
+            {
+                "image": "/static/img/Astrafit/3.PNG",
+                "id": 3
+            }
+        ],
+        "urlSite": "https://astrafit.herokuapp.com",
+        "title": "ASTRAFIT",
+        "date": "AGOSTO - DICIEMBRE 2020",
+        "description": "Sitio de entrenamiento físico con acceso a rutinas, dietas personalizadas, notas, motivaciones, Facebook, Strava.",
+        "icons": [
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/sass-1.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/javascript.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/php.svg"
+            },
+            {
+                "icon": "https://static.cdnlogo.com/logos/m/10/mysql.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg"
+            }
+        ]
+    },
+    {
+        "backgroundImage": "/static/img/MercadoPago/1.PNG",
+        "images": [
+            {
+                "image": "/static/img/MercadoPago/1.PNG",
+                "id": 1
+            },
+            {
+                "image": "/static/img/MercadoPago/2.PNG",
+                "id": 2
+            },
+            {
+                "image": "/static/img/MercadoPago/3.PNG",
+                "id": 2
+            }
+        ],
+        "urlSite": "https://koreanoniu-mp-ecommerce-php.herokuapp.com/",
+        "title": "Mercado Pago E-commerce",
+        "date": "JULIO 2020",
+        "description": "E-commerce con integración de la Api Mercado Pago.",
+        "icons": [
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/javascript.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/php.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg"
+            }
+        ],
+        "dark": true,
+        "certificate": "https://portafolio-carlos-garcia-17.herokuapp.com/src/pdf/6.pdf"
+    },
+    {
+        "backgroundImage": "/static/img/Maquetacion/1.PNG",
+        "images": [
+            {
+                "image": "/static/img/Maquetacion/1.PNG",
+                "id": 1
+            }
+        ],
+        "urlSite": "https://test-ui-mybusiness.herokuapp.com",
+        "title": "Maquetación de punto de venta",
+        "date": "SEPTIEMBRE 2020",
+        "description": "Diseño y maquetación de punto de venta",
+        "icons": [
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/sass-1.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg"
+            }
+        ],
+        "dark": true
+    },
+    {
+        "backgroundImage": "/static/img/Portafolio/Captura.PNG",
+        "images": [
+            {
+                "image": "/static/img/Portafolio/Captura.PNG",
+                "id": 1
+            },
+            {
+                "image": "/static/img/Portafolio/2.PNG",
+                "id": 2
+            },
+            {
+                "image": "/static/img/Portafolio/3.PNG",
+                "id": 3
+            },
+            {
+                "image": "/static/img/Portafolio/4.PNG",
+                "id": 4
+            }
+        ],
+        "urlSite": "https://www.carloslira.ga",
+        "title": "PORTAFOLIO WEB",
+        "date": "SEPTIEMBRE 2020",
+        "description": "Mi portafolio web donde muestro las tecnologías que uso y mi trabajo realizado.",
+        "icons": [
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/sass-1.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/uikit.svg"
+            },
+            {
+                "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/react.svg"
+            },
+            {
+                "icon": "https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/php.svg"
+            },
+            {
+                "icon": "https://static.cdnlogo.com/logos/m/10/mysql.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/Git_icon.svg"
+            },
+            {
+                "icon": "https://camo.githubusercontent.com/e1b7f6314df2076f5513f65e7a7eb010d79929233a9164e09013d2fd9b6e0803/68747470733a2f2f63646e2e7261776769742e636f6d2f7765627061636b2f6d656469612f65373438356562322f6c6f676f2f69636f6e2e737667"
+            }
+        ]
+    },
+    {
+        "backgroundImage": "/static/img/Administrador/3.PNG",
+        "images": [
+            {
+                "image": "/static/img/Administrador/1.PNG",
+                "id": 1
+            },
+            {
+                "image": "/static/img/Administrador/2.PNG",
+                "id": 2
+            },
+            {
+                "image": "/static/img/Administrador/3.PNG",
+                "id": 3
+            },
+            {
+                "image": "/static/img/Administrador/4.PNG",
+                "id": 4
+            }
+        ],
+        "title": "Administrador de proyectos",
+        "date": "SEPTIEMBRE 2020",
+        "description": "Mi propio administrador de proyectos personales con busquedas en tiempo real y registros (CRUD).",
+        "icons": [
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/sass-1.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/uikit.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/javascript.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/react.svg"
+            },
+            {
+                "icon": "https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/php.svg"
+            },
+            {
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" 
+            },
+            {
+                "icon": "https://static.cdnlogo.com/logos/m/10/mysql.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/Git_icon.svg"
+            }
+        ],
+        "dark": true
+    },
+    {
+        "backgroundImage": "/static/img/Autocompletado/3.PNG",
+        "images": [
+            {
+                "image": "/static/img/Autocompletado/3.PNG",
+                "id": 1
+            },
+            {
+                "image": "/static/img/Autocompletado/Captura.PNG",
+                "id": 2
+            },
+            {
+                "image": "/static/img/Autocompletado/2.PNG",
+                "id": 3
+            }
+        ],
+        "urlSite": "https://consultar-codigo-postal.netlify.app",
+        "title": "Autocompletar dirección con C.P",
+        "date": "SEPTIEMBRE 2020",
+        "description": "Autocompletado y consulta de C.P con API de datos extraídos desde un XLS proporcionado por el gobierno.",
+        "icons": [
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/sass-1.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/uikit.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/javascript.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/react.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/php.svg"
+            },
+            {
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" 
+            },
+            {
+                "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+            },
+            {
+                "icon": "https://static.cdnlogo.com/logos/m/10/mysql.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/Git_icon.svg"
+            }
+        ],
+        "dark": true
+    },
+    {
+        "backgroundImage": "/static/img/Espacios/3.PNG",
+        "images": [
+            {
+                "image": "/static/img/Espacios/1.PNG",
+                "id": 1
+            },
+            {
+                "image": "/static/img/Espacios/2.PNG",
+                "id": 2
+            },
+            {
+                "image": "/static/img/Espacios/3.PNG",
+                "id": 3
+            }
+        ],
+        "urlSite": "https://espacios-decoracion.herokuapp.com",
+        "title": "Catalogo Dígital",
+        "date": "SEPTIEMBRE 2020",
+        "description": "Diseño y desarrollo de catologo dígital para la empresa Espacios Decoración, Zamora, Michoacán.",
+        "icons": [
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/bootstrap.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/javascript.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/php.svg"
+            },
+            {
+                "icon": "https://static.cdnlogo.com/logos/m/10/mysql.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/Git_icon.svg"
+            }
+        ]
+    },
+    {
+        "backgroundImage": "/static/img/Marvel/1.PNG",
+        "images": [
+            {
+                "image": "/static/img/Marvel/1.PNG",
+                "id": 1
+            },
+            {
+                "image": "/static/img/Marvel/2.PNG",
+                "id": 2
+            },
+            {
+                "image": "/static/img/Marvel/3.PNG",
+                "id": 3
+            },
+            {
+                "image": "/static/img/Marvel/4.PNG",
+                "id": 3
+            }
+        ],
+        "urlSite": "https://marvel-fan-app.herokuapp.com",
+        "title": "Marvel Fan",
+        "date": "SEPTIEMBRE 2020",
+        "description": "Proyecto con propósito educativo, infografías, registro de usuarios, juegos web.",
+        "icons": [
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/javascript.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/php.svg"
+            },
+            {
+                "icon": "https://static.cdnlogo.com/logos/m/10/mysql.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/Git_icon.svg"
+            }
+        ]
+    },
+    {
+        "backgroundImage": "/static/img/Popcato/2.PNG",
+        "images": [
+            {
+                "image": "/static/img/Popcato/2.PNG",
+                "id": 1
+            },
+            {
+                "image": "/static/img/Popcato/1.PNG",
+                "id": 2
+            }
+        ],
+        "urlSite": "https://popcato.herokuapp.com",
+        "title": "Pop Cat",
+        "date": "SEPTIEMBRE 2020",
+        "description": "Página de entretenimiento y con fin de practicar CSS3, HTML5 y JS vanilla.",
+        "icons": [
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/javascript.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg"
+            },
+            {
+                "icon": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/Git_icon.svg"
+            }
+        ]
+    }
+]

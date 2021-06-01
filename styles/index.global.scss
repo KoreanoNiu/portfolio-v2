@@ -1,0 +1,136 @@
+h1,h2,h3{
+    font-family: 'GTWalsheimPro-Bold';
+    font-weight: normal;
+}
+
+body{
+    font-family: 'GTWalsheimPro-Light';
+}
+
+p, form, footer{
+    font-family: 'GTWalsheimPro-Thin';
+    font-size: 1.2rem;
+}
+
+video {
+    object-fit: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    background-size: 100%;
+    background-position: center;
+}
+.section{
+    position: relative;
+    height: 100vh;
+}
+.filter{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: brightness(60%) saturate(130%);
+
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content:center;
+
+    @media (max-width: 640px) {
+        h1{
+            font-size: 2.2rem;
+        }
+    }
+}
+
+.button{
+    background-color: #FF4742;
+    &:hover{
+        background-color: rgba(0,0,0, 0);
+        border: 1px solid #FF4742;
+        -webkit-box-shadow: 0px 0px 40px -5px rgba(255,71,66,1);
+        -moz-box-shadow: 0px 0px 40px -5px rgba(255,71,66,1);
+        box-shadow: 0px 0px 40px -5px rgba(255,71,66,1);
+    }
+    &:focus{
+        background-color: rgba(0,0,0, 0);
+        border: 1px solid #FF4742;
+        -webkit-box-shadow: 0px 0px 40px -10px rgba(255,71,66,1);
+        -moz-box-shadow: 0px 0px 40px -10px rgba(255,71,66,1);
+        box-shadow: 0px 0px 40px -10px rgba(255,71,66,1);
+    }
+}
+
+.button2{
+    background-color: #FF4742 !important;
+    &:hover{
+        background-color: rgba(0,0,0, 0) !important;
+        border: 1px solid #FF4742 !important;
+        -webkit-box-shadow: 0px 0px 40px -10px rgba(255,71,66,1);
+        -moz-box-shadow: 0px 0px 40px -10px rgba(255,71,66,1);
+        box-shadow: 0px 0px 40px -10px rgba(255,71,66,1);
+    }
+    &:focus{
+        background-color: rgba(0,0,0, 0) !important;
+        border: 1px solid #FF4742 !important;
+        -webkit-box-shadow: 0px 0px 40px -10px rgba(255,71,66,1);
+        -moz-box-shadow: 0px 0px 40px -10px rgba(255,71,66,1);
+        box-shadow: 0px 0px 40px -10px rgba(255,71,66,1);
+    }
+}
+
+.img-about-me{
+    width: 55vh;
+  }
+  
+
+.transparent{
+    background-color: transparent;
+    
+    .color-black{
+      li{
+        a{
+            font-family: 'GTWalsheimPro-Bold';
+            color: #fff;
+        }
+      }
+    }
+}
+
+.glass{
+    background-color: rgba(255, 255, 255, .10);  
+    backdrop-filter: blur(10px);
+}
+
+.navbar{
+    @media (max-width: 1024px) {
+        display: none;
+      }
+}
+
+.logo-nav{
+    height: 5rem;
+}
+
+.logo{
+    height: 12rem;
+    margin-top: -2rem;
+    margin-bottom: -3rem;
+
+    @media (max-width: 640px) {
+        margin-bottom: -3rem;
+        height: 8em;
+    }
+}
+
+span.custom-white svg{
+    color:#ffffff;
+  }
+
+  .footer{
+    background-color: #222; 
+  }

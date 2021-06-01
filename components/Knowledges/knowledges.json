@@ -1,0 +1,171 @@
+[
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/w3_html5-icon.svg",
+        "title": "HTML5",
+        "progress":  "90",
+        "type": "FRONTEND"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/css.svg",
+        "title": "CSS3",
+        "progress": "89",
+        "type": "FRONTEND"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/javascript.svg",
+        "title": "JS",
+        "progress":  "77",
+        "type": "FRONTEND"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
+        "title": "TypeScript",
+        "progress":  "50",
+        "type": "FRONTEND BACKEND"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/php.svg",
+        "title": "PHP",
+        "progress":  "77",
+        "type": "BACKEND",
+        "preferido": true
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png",
+        "title": "LARAVEL",
+        "progress":  "55",
+        "type": "BACKEND",
+        "preferido": true
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+        "title": "PYTHON",
+        "progress":  "55",
+        "type": "BACKEND"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/NET_Core_Logo.svg",
+        "title": "C#",
+        "progress":  "45",
+        "type": "BACKEND"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/sass-1.svg",
+        "title": "SASS",
+        "progress":  "85",
+        "type": "FRONTEND",
+        "preferido": true
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/react.svg",
+        "title": "REACTJS",
+        "progress":  "65",
+        "type": "FRONTEND",
+        "preferido": true
+    },
+    {
+        "image": "https://cdn.worldvectorlogo.com/logos/nextjs-3.svg",
+        "title": "NEXTJS",
+        "progress":  "45",
+        "type": "FRONTEND BACKEND",
+        "preferido": true
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/Vue.js_Logo_2.svg",
+        "title": "VUEJS",
+        "progress":  "45",
+        "type": "FRONTEND"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/jquery-icon.svg",
+        "title": "JQUERY",
+        "progress":  "70",
+        "type": "FRONTEND"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/ajax.svg",
+        "title": "AJAX",
+        "progress":  "75",
+        "type": "BACKEND"
+    },
+    {
+        "image": "https://camo.githubusercontent.com/e1b7f6314df2076f5513f65e7a7eb010d79929233a9164e09013d2fd9b6e0803/68747470733a2f2f63646e2e7261776769742e636f6d2f7765627061636b2f6d656469612f65373438356562322f6c6f676f2f69636f6e2e737667",
+        "title": "WEBPACK 4",
+        "progress":  "60",
+        "type": "EXTRAS"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/Git_icon.svg",
+        "title": "GIT",
+        "progress":  "70",
+        "type": "EXTRAS"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/logotipo-de-github.svg",
+        "title": "GITHUB",
+        "progress":  "82",
+        "type": "EXTRAS"
+    },
+    {
+        "image": "https://static.cdnlogo.com/logos/m/10/mysql.svg",
+        "title": "MYSQL",
+        "progress":  "55",
+        "type": "BACKEND",
+        "preferido": true
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/firebase-seeklogo.com.svg",
+        "title": "FIREBASE",
+        "progress":  "45",
+        "type": "BACKEND"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/uikit.svg",
+        "title": "UIKIT",
+        "progress":  "90",
+        "type": "FRONTEND",
+        "preferido": true
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/materialize.svg",
+        "title": "MATERIALIZE",
+        "progress":  "82",
+        "type": "FRONTEND"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/bootstrap.svg",
+        "title": "BOOTSTRAP",
+        "progress":  "76",
+        "type": "FRONTEND"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg",
+        "title": "LIGHTROOM",
+        "progress":  "65",
+        "type": "EXTRAS"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+        "title": "PHOTOSHOP",
+        "progress":  "29",
+        "type": "EXTRAS"
+    },
+    {
+        "image": "https://symbols.getvecta.com/stencil_91/55_phaser.7d7383e626.svg",
+        "title": "PHASER",
+        "progress":  "50",
+        "type": "EXTRAS"
+    },
+    {
+        "image": "https://portafolio-carlos-garcia-17.herokuapp.com/src/img/ISO_C++_Logo.svg",
+        "title": "C++",
+        "progress":  "60",
+        "type": "BACKEND"
+    },
+    {
+        "image": "https://image.flaticon.com/icons/png/512/873/873120.png",
+        "title": "HEROKU",
+        "progress":  "63",
+        "type": "EXTRAS"
+    }
+]
