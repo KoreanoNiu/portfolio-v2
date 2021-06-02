@@ -16,7 +16,7 @@ type itemProps = {
 
 const Item: React.FC<itemProps> = ({backgroundImage, images, urlSite, title, date, description, icons, dark, certificate}) =>
     <div className="section">
-        <div className='uk-section' data-uk-grid>
+        <div className='uk-section uk-section-secondary' data-uk-grid style={{backgroundColor: '#121212'}}>
             <LazyLoadBackground
               urlImage={backgroundImage}
               images={images}

@@ -134,3 +134,20 @@ span.custom-white svg{
   .footer{
     background-color: #222; 
   }
+
+  .full-heigth{
+    height: 100vh;
+  }
+  
+  .icon{
+    height: 2rem;
+  }
+  
+  @media (max-width: 639px) {
+    .full-heigth{
+      height: 35vh;
+    }
+    .icon{
+      height: 1.7rem;
+    }
+  }

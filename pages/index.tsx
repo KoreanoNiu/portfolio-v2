@@ -1,3 +1,4 @@
+import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import Particles from '../components/Particles/Particles'
 import Navbar from '../components/Navbar/Navbar';
 import AboutMe from '../components/AboutMe/AboutMe'
@@ -6,21 +7,24 @@ import Knowledge from '../components/Knowledges/Knowledges'
 import Projects from '../components/Projects/Projects'
 import Contact from '../components/Contact/Contact';
 import Footer from '../components/Footer/Footer';
-import { LazyLoadComponent } from 'react-lazy-load-image-component';
+import Load from '../components/Load/Load';
 
 const myApp = () =>
 {
     return(
-        <LazyLoadComponent>
-            <Navbar/>
-            <Particles/>
-            <AboutMe/>
-            <Habilities/>
-            <Knowledge/>
-            <Projects/>
-            <Contact/>
-            <Footer/>
-        </LazyLoadComponent>
+        <div>
+            <Load/>
+            <LazyLoadComponent>
+                <Navbar/>
+                <Particles/>
+                <AboutMe/>
+                <Habilities/>
+                <Knowledge/>
+                <Projects/>
+                <Contact/>
+                <Footer/>
+            </LazyLoadComponent>
+        </div>
     )
 }
 
