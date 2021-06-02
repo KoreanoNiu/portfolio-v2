@@ -17,7 +17,7 @@ const Menu = () =>
     >
         <NavbarPortafolio/>
     </div>
-
+const colors = ['121212', '121212', '121212', '121212']
 
 const Portafolio = () =>
     <div>
@@ -50,6 +50,7 @@ const Portafolio = () =>
           scrollingSpeed={1000}
           verticalCentered={false}
           easingcss3='ease-out'
+          sectionsColor={['121212']}
           render={comp =>
              (
               <ReactFullpage.Wrapper>
