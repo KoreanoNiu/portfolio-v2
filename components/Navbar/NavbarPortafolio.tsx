@@ -20,7 +20,7 @@ const Menu = () =>{
                     <div className="uk-navbar">
         
                         <div className="uk-navbar-left">
-                            <div className="uk-navbar-item" style={{color: "#B7B7B7", fontFamily: 'GTWalsheimPro-Bold'}}>
+                            <div className="uk-navbar-item" style={{color: "#FF4742", fontFamily: 'GTWalsheimPro-Bold'}}>
                                 <img src={Logo2} alt="" className='logo-nav'/>
                             </div>
                         </div>
@@ -35,7 +35,7 @@ const Menu = () =>{
                             </ul>
         
                             <a onClick={() => router.push('/#Contact')} className="uk-button uk-button-primary uk-margin-remove-top uk-border-rounded button" href="#Contact" >CONTACTO</a>
-                            <a className="uk-navbar-toggle" data-uk-navbar-toggle-icon href="#offcanvas" data-uk-toggle="target: #offcanvas" style={{color: "#B7B7B7"}}></a>
+                            <a className="uk-navbar-toggle" data-uk-navbar-toggle-icon href="#offcanvas" data-uk-toggle="target: #offcanvas" style={{color: "#FF4742"}}></a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ const Menu = () =>{
                         <li onClick={() => router.push('/#Habilities')}><a href="#Habilities"><span className="uk-margin-small-right" data-uk-icon="icon: pencil"/>HABILIDADES</a></li>
                         <li onClick={() => router.push('/#Knowledge')}><a href="#Knowledge"><span className="uk-margin-small-right" data-uk-icon="icon: bolt"/>CONOCIMIENTOS</a></li>
                         <li><a onClick={() => router.push('/portafolio')} ><span className="uk-margin-small-right" data-uk-icon="icon: list"/>PROYECTOS</a></li>
-                        <li> onClick={() => router.push('/#Contact')}<a href="#Contact"><span className="uk-margin-small-right" data-uk-icon="icon: comment"/>CONTACTO</a></li>
+                        <li onClick={() => router.push('/#Contact')}><a href="#Contact"><span className="uk-margin-small-right" data-uk-icon="icon: comment"/>CONTACTO</a></li>
 
                         <li className="uk-nav-divider uk-margin-medium-top custom-color" style={{borderTopColor: "#fff"}}></li>
                         <li className="uk-nav-header" style={{color: "#fff"}}>REDES SOCIALES</li>
