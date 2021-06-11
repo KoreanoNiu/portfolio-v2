@@ -26,7 +26,7 @@ const backgroundImage: React.FC<divProps> = ({urlImage, images, dark, urlSite}) 
                       return(
                         image.id == 1 ? 
                         <a 
-                          className={ dark ? 'uk-margin-left uk-transition-scale-up uk-dark' : 'uk-margin-left uk-transition-scale-up uk-light'} 
+                          className={ dark ? 'uk-margin-left uk-transition-scale-up uk-dark custom-red' : 'uk-margin-left uk-transition-scale-up uk-light custom-red'} 
                           href={image.image} 
                           data-uk-icon='icon:plus-circle; ratio: 4' 
                           key={id}></a>
@@ -36,7 +36,7 @@ const backgroundImage: React.FC<divProps> = ({urlImage, images, dark, urlSite}) 
                     })
                   }
                 </div>
-                  <a className={ dark ? 'uk-transition-scale-up uk-dark uk-margin-left' : 'uk-transition-scale-up uk-light uk-margin-left'} href={urlSite} data-uk-icon='icon:link; ratio: 4'></a>
+                  <a className={ dark ? 'uk-transition-scale-up uk-dark uk-margin-left custom-red' : 'uk-transition-scale-up uk-light uk-margin-left custom-red'} href={urlSite} data-uk-icon='icon:link; ratio: 4'></a>
               </div>
             </div>     
         )

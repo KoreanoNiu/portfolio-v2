@@ -1,3 +1,4 @@
+import Head from 'next/head'
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import Particles from '../components/Particles/Particles'
 import Navbar from '../components/Navbar/Navbar';
@@ -13,6 +14,22 @@ const myApp = () =>
 {
     return(
         <div>
+            <Head>
+                <title>PORTAFOLIO | CARLOS GARCIA</title>
+                <meta
+                  name="description"
+                  content="DESARROLLADOR WEB CARLOS HUMBERTO GARCÍA LIRA"
+                />
+                <meta property="og:title" content="DESARROLLADOR WEB CARLOS HUMBERTO GARCÍA LIRA"/>
+                <meta property="og:description" content="¡Hola! mi nombre es Carlos, soy un Desarrollador web, entusiasta y encantado por la programación y la música. Actualmente estoy disponible para trabajar de manera remota, o presencial en la ciudad de Zamora, Michoacán. Si tienes un proyecto que deseas comenzar o consideras que necesitas de mis servicios, ponte en contacto."/>
+                <meta property="og:image" content="https://portafolio-carlos-garcia-17.herokuapp.com/src/img/12022020a7.jpg"/>
+                <meta property="og:image:secure_url" content="https://portafolio-carlos-garcia-17.herokuapp.com/src/img/12022020a7.jpg"/>
+                <meta property="og:image" content="https://portafolio-carlos-garcia-17.herokuapp.com/src/img/150x150.png"/>
+                <meta property="og:image:secure_rul" content="https://portafolio-carlos-garcia-17.herokuapp.com/src/img/150x150.png"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <link rel="shortcut icon" href="/static/navegador-web.ico" sizes="64x64"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1"/>
+            </Head>
             <Load/>
             <LazyLoadComponent>
                 <Navbar/>

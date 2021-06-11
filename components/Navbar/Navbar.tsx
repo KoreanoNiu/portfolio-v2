@@ -24,7 +24,7 @@ const Menu = () =>{
                         </div>
         
                         <div className="uk-navbar-right">
-                            <ul className="uk-navbar-nav navbar color-black">
+                            <ul className="uk-navbar-nav navbar color-white">
                                 <li className="uk-active"><a href="#Home">INICIO</a></li>
                                 <li><a href="#AboutMe">SOBRE DE MÍ</a></li>
                                 <li><a href="#Habilities">HABILIDADES</a></li>
@@ -43,12 +43,12 @@ const Menu = () =>{
         
                     <button className="uk-offcanvas-close" type="button" data-uk-close style={{color: "#fff"}}></button>
         
-                    <ul className="uk-nav uk-nav-default color-black">
+                    <ul className="uk-nav uk-nav-default color-white">
                     <li><a style={{color: "#ffffff"}} href="#Home"><span className="uk-margin-small-right" data-uk-icon="icon: home"/>INICIO</a></li>
                         <li><a href="#AboutMe"><span className="uk-margin-small-right" data-uk-icon="icon: user"/>ACERCA DE MÍ</a></li>
                         <li><a href="#Habilities"><span className="uk-margin-small-right" data-uk-icon="icon: pencil"/>HABILIDADES</a></li>
                         <li><a href="#Knowledge"><span className="uk-margin-small-right" data-uk-icon="icon: bolt"/>CONOCIMIENTOS</a></li>
-                        <li><a><span className="uk-margin-small-right" data-uk-icon="icon: list"/>PROYECTOS</a></li>
+                        <li><a href="/portafolio"><span className="uk-margin-small-right" data-uk-icon="icon: list"/>PROYECTOS</a></li>
                         <li><a href="#Contact"><span className="uk-margin-small-right" data-uk-icon="icon: comment"/>CONTACTO</a></li>
 
                         <li className="uk-nav-divider uk-margin-medium-top custom-color" style={{borderTopColor: "#fff"}}></li>

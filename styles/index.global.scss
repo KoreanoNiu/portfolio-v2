@@ -96,10 +96,23 @@ video {
       li{
         a{
             font-family: 'GTWalsheimPro-Bold';
-            color: #fff;
+            color: #B7B7B7;
         }
       }
     }
+    
+.color-white{
+    li{
+      a{
+          font-family: 'GTWalsheimPro-Bold';
+          color: #ffffff;
+
+          &:hover{
+              color: #C1C1C1;
+          }
+      }
+    }
+  }
 }
 
 .glass{
@@ -150,5 +163,26 @@ span.custom-white svg{
     }
     .icon{
       height: 1.7rem;
+    }
+  }
+
+  #fp-nav ul li a span, .fp-slidesNav ul li a span {
+    background: #fff !important;
+}
+
+.card{
+    background: #FFFFFF;
+    border: 0.5px solid rgba(0, 0, 0, 0.04);
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.12), 0px 3px 1px rgba(0, 0, 0, 0.04);
+    border-radius: 13px;
+}
+
+a.custom-red svg{
+    color:#FF4742;
+  }
+
+  .hover{
+    &:hover{
+      color: #FF4742 !important;
     }
   }

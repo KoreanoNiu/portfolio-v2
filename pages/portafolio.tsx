@@ -2,7 +2,7 @@ import Load from '../components/Load/Load';
 import Head from 'next/head'
 import ReactFullpage from "@fullpage/react-fullpage";
 
-import NavbarPortafolio from '../components/Navbar/Navbar';
+import NavbarPortafolio from '../components/Navbar/NavbarPortafolio';
 import Projects from '../components/Projects/Projects.json';
 import Item from '../components/Projects/Item';
 

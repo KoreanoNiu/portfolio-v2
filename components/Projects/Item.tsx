@@ -26,7 +26,7 @@ const Item: React.FC<itemProps> = ({backgroundImage, images, urlSite, title, dat
             </LazyLoadBackground>
             <div className='uk-width-1-2@s uk-flex uk-flex-middle uk-margin-small-top@s'>
                 <article className='uk-article uk-margin-medium-left uk-margin-medium-right'>
-                  <h2 className="uk-article-title uk-heading-bullet"><a className="uk-link-reset" href={urlSite}>{title}</a></h2>
+                  <h2 className="uk-article-title uk-heading-bullet"><a className="uk-link-reset hover" href={urlSite}>{title}</a></h2>
                   <p className="uk-article-meta">{date}</p>
                   <p className="uk-hidden@m uk-text-small">{description}</p>
                   <p className='uk-visible@m uk-text-lead '>{description}</p>

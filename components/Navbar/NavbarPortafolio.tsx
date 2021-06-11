@@ -1,8 +1,10 @@
 import React, {Fragment} from 'react'
+import { useRouter } from 'next/router';
 
-import Logo2 from '../img/CL4.svg'
+import Logo2 from '../img/clred.svg'
 
 const Menu = () =>{
+    const router = useRouter()
     return(
         <div
         className="menu"
@@ -18,22 +20,22 @@ const Menu = () =>{
                     <div className="uk-navbar">
         
                         <div className="uk-navbar-left">
-                            <div className="uk-navbar-item" style={{color: "#ffffff", fontFamily: 'GTWalsheimPro-Bold'}}>
+                            <div className="uk-navbar-item" style={{color: "#B7B7B7", fontFamily: 'GTWalsheimPro-Bold'}}>
                                 <img src={Logo2} alt="" className='logo-nav'/>
                             </div>
                         </div>
         
                         <div className="uk-navbar-right">
-                            <ul className="uk-navbar-nav navbar color-black">
-                                <li className="uk-active"><a href="#Home">INICIO</a></li>
-                                <li><a href="#AboutMe">SOBRE DE MÍ</a></li>
-                                <li><a href="#Habilities">HABILIDADES</a></li>
-                                <li><a href="#Knowledge">CONOCIMIENTOS</a></li>
+                            <ul className="uk-navbar-nav navbar color-white">
+                                <li className="uk-active" onClick={() => router.push('/#Home')}><a style={{color: '#C1C1C1'}} href="#Home">INICIO</a></li>
+                                <li onClick={() => router.push('/#AboutMe')}><a href="#AboutMe">SOBRE DE MÍ</a></li>
+                                <li onClick={() => router.push('/#Habilities')}><a href="#Habilities">HABILIDADES</a></li>
+                                <li onClick={() => router.push('/#Knowledge')}><a href="#Knowledge">CONOCIMIENTOS</a></li>
                                 <li><a href="/portafolio">PROYECTOS</a></li>
                             </ul>
         
-                            <a className="uk-button uk-button-primary uk-margin-remove-top uk-border-rounded button" href="#Contact" >CONTACTO</a>
-                            <a className="uk-navbar-toggle" data-uk-navbar-toggle-icon href="#offcanvas" data-uk-toggle="target: #offcanvas" style={{color: "#fff"}}></a>
+                            <a onClick={() => router.push('/#Contact')} className="uk-button uk-button-primary uk-margin-remove-top uk-border-rounded button" href="#Contact" >CONTACTO</a>
+                            <a className="uk-navbar-toggle" data-uk-navbar-toggle-icon href="#offcanvas" data-uk-toggle="target: #offcanvas" style={{color: "#B7B7B7"}}></a>
                         </div>
                     </div>
                 </div>
@@ -44,12 +46,12 @@ const Menu = () =>{
                     <button className="uk-offcanvas-close" type="button" data-uk-close style={{color: "#fff"}}></button>
         
                     <ul className="uk-nav uk-nav-default color-black">
-                    <li><a style={{color: "#ffffff"}} href="#Home"><span className="uk-margin-small-right" data-uk-icon="icon: home"/>INICIO</a></li>
-                        <li><a href="#AboutMe"><span className="uk-margin-small-right" data-uk-icon="icon: user"/>ACERCA DE MÍ</a></li>
-                        <li><a href="#Habilities"><span className="uk-margin-small-right" data-uk-icon="icon: pencil"/>HABILIDADES</a></li>
-                        <li><a href="#Knowledge"><span className="uk-margin-small-right" data-uk-icon="icon: bolt"/>CONOCIMIENTOS</a></li>
-                        <li><a><span className="uk-margin-small-right" data-uk-icon="icon: list"/>PROYECTOS</a></li>
-                        <li><a href="#Contact"><span className="uk-margin-small-right" data-uk-icon="icon: comment"/>CONTACTO</a></li>
+                        <li onClick={() => router.push('/#Home')}><a style={{color: "#C1C1C1"}} href="#Home"><span className="uk-margin-small-right" data-uk-icon="icon: home"/>INICIO</a></li>
+                        <li onClick={() => router.push('/#AboutMe')}><a href="#AboutMe"><span className="uk-margin-small-right" data-uk-icon="icon: user"/>ACERCA DE MÍ</a></li>
+                        <li onClick={() => router.push('/#Habilities')}><a href="#Habilities"><span className="uk-margin-small-right" data-uk-icon="icon: pencil"/>HABILIDADES</a></li>
+                        <li onClick={() => router.push('/#Knowledge')}><a href="#Knowledge"><span className="uk-margin-small-right" data-uk-icon="icon: bolt"/>CONOCIMIENTOS</a></li>
+                        <li><a onClick={() => router.push('/portafolio')} ><span className="uk-margin-small-right" data-uk-icon="icon: list"/>PROYECTOS</a></li>
+                        <li> onClick={() => router.push('/#Contact')}<a href="#Contact"><span className="uk-margin-small-right" data-uk-icon="icon: comment"/>CONTACTO</a></li>
 
                         <li className="uk-nav-divider uk-margin-medium-top custom-color" style={{borderTopColor: "#fff"}}></li>
                         <li className="uk-nav-header" style={{color: "#fff"}}>REDES SOCIALES</li>
